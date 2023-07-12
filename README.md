@@ -92,6 +92,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>
 
 ![image](https://github.com/ijoshua932/osticket-prereqs/assets/139269375/11ea13e8-3c0a-4817-b526-8579943b0d93)
+![image](https://github.com/ijoshua932/osticket-prereqs/assets/139269375/f3dc65b8-8815-444f-b759-6320ea3baa43)
+![image](https://github.com/ijoshua932/osticket-prereqs/assets/139269375/718049a8-3384-40b6-9b29-3be0828fa0c8)
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
