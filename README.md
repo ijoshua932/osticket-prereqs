@@ -51,7 +51,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>
 
 ![image](https://github.com/ijoshua932/osticket-prereqs/assets/139269375/27391a78-8c5c-43a2-b490-381afe8bdff4)
+
 ![image](https://github.com/ijoshua932/osticket-prereqs/assets/139269375/4be11cdf-acc6-4884-bf59-e417992bed73)
+
 ![image](https://github.com/ijoshua932/osticket-prereqs/assets/139269375/0e316ae9-54c3-4233-a598-3e832cf01675)
 </p>
 <p>
@@ -62,6 +64,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>
 
 ![image](https://github.com/ijoshua932/osticket-prereqs/assets/139269375/4e81c107-6547-4743-87ca-49c5e2b2737b)
+
 ![image](https://github.com/ijoshua932/osticket-prereqs/assets/139269375/9aab97ff-2577-418f-b978-84ddcfdab7dc)
 </p>
 <p>
@@ -82,6 +85,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>
 
 ![image](https://github.com/ijoshua932/osticket-prereqs/assets/139269375/e4848fde-9aa2-43f5-9a0b-93900f2edb82)
+
 ![image](https://github.com/ijoshua932/osticket-prereqs/assets/139269375/ca58826b-c9b9-4ce6-bcea-e115207a734f)
 </p>
 <p>
@@ -92,7 +96,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>
 
 ![image](https://github.com/ijoshua932/osticket-prereqs/assets/139269375/11ea13e8-3c0a-4817-b526-8579943b0d93)
+
 ![image](https://github.com/ijoshua932/osticket-prereqs/assets/139269375/f3dc65b8-8815-444f-b759-6320ea3baa43)
+
 ![image](https://github.com/ijoshua932/osticket-prereqs/assets/139269375/718049a8-3384-40b6-9b29-3be0828fa0c8)
 </p>
 <p>
