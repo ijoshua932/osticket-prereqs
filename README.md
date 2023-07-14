@@ -40,7 +40,6 @@ To install Internet Information Services (IIS) on a Windows computer, open the C
 ![image](https://github.com/ijoshua932/osticket-prereqs/assets/139269375/0db99c32-ff74-4c0c-8d9f-9ff04004cd35)
 ![image](https://github.com/ijoshua932/osticket-prereqs/assets/139269375/123b3b62-09e7-4b69-82a3-652d5a3f63f7)
 ![image](https://github.com/ijoshua932/osticket-prereqs/assets/139269375/9379e4ea-edf9-45dc-8ce0-316aacfd5740)
-![image](https://github.com/ijoshua932/osticket-prereqs/assets/139269375/bbc705da-1911-4264-b5cf-a2a8ee4ee322)
 
 </p>
 <p>
