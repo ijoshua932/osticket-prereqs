@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/ijoshua932/osticket-prereqs/assets/139269375/8996dae9-730e-4456-b987-aa27c448f930)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To install Internet Information Services (IIS) on a Windows computer, open the Control Panel, click on "Programs," then "Turn Windows features on or off." In the dialog box that appears, scroll down to find "Internet Information Services" and check the box next to it. Click "OK" to initiate the installation. Once installed, open the IIS Manager, select the desired website or application, and click "Start" to enable IIS and make it accessible via the internet.
 </p>
 <br />
 
@@ -44,7 +44,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To run Internet Information Services (IIS) on a Windows computer, you don't need to install any additional software as IIS comes pre-installed on most versions of Windows. However, if you're using an older version of Windows or a specific edition that doesn't include IIS, you'll need to install it by going to the Control Panel, clicking on "Programs," then "Turn Windows features on or off," and selecting "Internet Information Services" to install it. Some of those installs include PHP Manager and Rewrite module.
 </p>
 <br />
 
@@ -57,7 +57,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![image](https://github.com/ijoshua932/osticket-prereqs/assets/139269375/0e316ae9-54c3-4233-a598-3e832cf01675)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To register PHP Manager and enable certain settings, open IIS Manager, select the server node in the Connections pane, and double-click on "PHP Manager" in the Features View. From there, you can enable or disable various PHP settings, such as adjusting PHP version, configuring extensions, and modifying PHP directives to suit your requirements.
 </p>
 <br />
 
@@ -68,7 +68,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![image](https://github.com/ijoshua932/osticket-prereqs/assets/139269375/9aab97ff-2577-418f-b978-84ddcfdab7dc)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+If you have successfully registered PHP Manager and enabled the desired settings, you should see the PHP Manager interface within the IIS Manager window. It typically appears as a separate module with options to manage PHP configurations, extensions, and settings. Additionally, you may notice that your PHP-based websites or applications are functioning correctly, indicating that the configurations have been applied successfully. As seen above.
 </p>
 <br />
 
@@ -78,7 +78,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![image](https://github.com/ijoshua932/osticket-prereqs/assets/139269375/f23e5f03-7201-4c82-8caa-d0aadc677ab5)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To start HeidiSQL and connect to a database, you need to first download and install HeidiSQL from the official website. Once installed, open the HeidiSQL application and click on "New" to create a new session. Enter the necessary details, such as the database host, username, password, and port, and click "Open" to establish a connection to the database.
 </p>
 <br />
 
@@ -89,7 +89,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![image](https://github.com/ijoshua932/osticket-prereqs/assets/139269375/ca58826b-c9b9-4ce6-bcea-e115207a734f)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To start osTicket, you need to fill in all the necessary information during the setup process. This includes providing details such as the database host, username, password, and database name. By accurately providing this information, you can successfully set up osTicket and have it ready for use as a ticketing system.
 </p>
 <br />
 
@@ -102,6 +102,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![image](https://github.com/ijoshua932/osticket-prereqs/assets/139269375/718049a8-3384-40b6-9b29-3be0828fa0c8)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+If you have successfully filled in all the necessary information during the setup process of osTicket, you should see the osTicket interface or dashboard. This interface typically displays options to manage tickets, configure settings, and interact with your support system. Additionally, you may notice various features like ticket queues, ticket search, and customer interactions, indicating that osTicket has been set up correctly, and that the websites for submitting tickets and admin login are up and running.
 </p>
 <br />
